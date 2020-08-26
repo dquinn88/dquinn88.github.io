@@ -1,0 +1,32 @@
+body > header {
+    color: #ffffff;
+    background-color:#070254;
+}
+
+nav > ul {
+    list-style: none;
+}
+
+nav > ul > li > a {
+    color: white;
+}
+
+.sub-section {
+    background-color: lightskyblue;
+    flex: 33%;
+}
+
+.flex-container {
+  display: flex;    
+  flex-flow: row wrap;
+  text-align: center;
+}
+
+img{
+    max-width: 100%;
+}
+
+body > section > h4 {
+    text-align: justify;
+}
+
